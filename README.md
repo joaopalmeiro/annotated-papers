@@ -9,6 +9,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 3. [Fairness On The Ground: Applying Algorithmic Fairness Approaches To Production Systems](machine-learning/fairness_on_the_ground) | Chloé Bakalar, Renata Barreto, Miranda Bogen, Sam Corbett-Davies, Melissa Hall, Isabel Kloumann, Michelle Lam, Joaquin Quiñonero Candela, Manish Raghavan, Joshua Simons, Jonathan Tannen, Edmund Tong, Kate Vredenburgh, Jiejing Zhao | 2021
 4. [Visualizing Transportation Flows with Mode Split using Glyphs](data-visualization/visualizing_transportation_flows_with_mode_split_using_glyphs.pdf) | Ignacio Pérez-Messina, Eduardo Graells-Garrido | 2019
 5. [The Design Space of SparkWords](data-visualization/the_design_space_of_spark_words.pdf) | Richard Brath, Peter MacMurchy, Ebad Banissi | 2019
+6. [Learning Vis Tools: Teaching Data Visualization Tutorials](data-visualization/learning_vis_tools_teaching_data_visualization_tutorials.pdf) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019
 
 ## Notes
 
