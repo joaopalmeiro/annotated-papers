@@ -7,3 +7,5 @@
 - [Visualizing Transportation Flows with Mode Split using Glyphs](https://diglib.eg.org/handle/10.2312/evs20191165) | Ignacio Pérez-Messina, Eduardo Graells-Garrido | 2019
 - [The Design Space of SparkWords](https://diglib.eg.org/handle/10.2312/evs20191182) | Richard Brath, Peter MacMurchy, Ebad Banissi | 2019
 - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019
+- [ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data](https://arxiv.org/abs/2007.15272) | Xumeng Wang, Wei Chen, Jiazhi Xia, Zexian Chen, Dongshi Xu, Xiangyang Wu, Mingliang Xu, Tobias Schreck | 2020
+  - [Presentation](https://youtu.be/BtxxhKdO6Ms?t=5839)
