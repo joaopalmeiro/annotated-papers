@@ -11,6 +11,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 5. [The Design Space of SparkWords](data-visualization/the_design_space_of_spark_words.pdf) | Richard Brath, Peter MacMurchy, Ebad Banissi | 2019
 6. [Learning Vis Tools: Teaching Data Visualization Tutorials](data-visualization/learning_vis_tools_teaching_data_visualization_tutorials.pdf) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019
 7. [Fits and Starts: Enterprise Use of AutoML and the Role of Humans in the Loop](machine-learning/fits_and_starts_enterprise_use_of_auto_ml_and_the_role_of_humans_in_the_loop.pdf) | Anamaria Crisan, Brittany Fiore-Gartland | 2021
+8. [ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data](data-visualization/conceptexplorer.pdf) | Xumeng Wang, Wei Chen, Jiazhi Xia, Zexian Chen, Dongshi Xu, Xiangyang Wu, Mingliang Xu, Tobias Schreck | 2020
 
 ## Notes
 
