@@ -9,3 +9,5 @@
 - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019
 - [ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data](https://arxiv.org/abs/2007.15272) | Xumeng Wang, Wei Chen, Jiazhi Xia, Zexian Chen, Dongshi Xu, Xiangyang Wu, Mingliang Xu, Tobias Schreck | 2020
   - [Presentation](https://youtu.be/BtxxhKdO6Ms?t=5839)
+- [SAX Navigator: Time Series Exploration through Hierarchical Clustering](https://vcg.seas.harvard.edu/publications/saxnavigator) | Nicholas Ruta, Naoko Sawada, Katy McKeough, Michael Behrisch, Johanna Beyer | 2019
+  - [Presentation](https://youtu.be/tgbefUOYWUY)
