@@ -11,3 +11,4 @@
   - [Presentation](https://youtu.be/BtxxhKdO6Ms?t=5839)
 - [SAX Navigator: Time Series Exploration through Hierarchical Clustering](https://vcg.seas.harvard.edu/publications/saxnavigator) | Nicholas Ruta, Naoko Sawada, Katy McKeough, Michael Behrisch, Johanna Beyer | 2019
   - [Presentation](https://youtu.be/tgbefUOYWUY)
+- [Diagnosing Concept Drift with Visual Analytics](https://arxiv.org/abs/2007.14372) (a.k.a. DriftVis) | Weikai Yang, Zhen Li, Mengchen Liu, Yafeng Lu, Kelei Cao, Ross Maciejewski, Shixia Liu | 2020

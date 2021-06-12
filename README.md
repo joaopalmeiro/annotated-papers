@@ -13,6 +13,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 7. [Fits and Starts: Enterprise Use of AutoML and the Role of Humans in the Loop](machine-learning/fits_and_starts_enterprise_use_of_auto_ml_and_the_role_of_humans_in_the_loop.pdf) | Anamaria Crisan, Brittany Fiore-Gartland | 2021
 8. [ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data](data-visualization/conceptexplorer.pdf) | Xumeng Wang, Wei Chen, Jiazhi Xia, Zexian Chen, Dongshi Xu, Xiangyang Wu, Mingliang Xu, Tobias Schreck | 2020
 9. [SAX Navigator: Time Series Exploration through Hierarchical Clustering](data-visualization/sax_navigator.pdf) | Nicholas Ruta, Naoko Sawada, Katy McKeough, Michael Behrisch, Johanna Beyer | 2019
+10. [Diagnosing Concept Drift with Visual Analytics](data-visualization/diagnosing_concept_drift_with_visual_analytics.pdf) (a.k.a. DriftVis) | Weikai Yang, Zhen Li, Mengchen Liu, Yafeng Lu, Kelei Cao, Ross Maciejewski, Shixia Liu | 2020
 
 ## Notes
 
