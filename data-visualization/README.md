@@ -12,3 +12,5 @@
 - [SAX Navigator: Time Series Exploration through Hierarchical Clustering](https://vcg.seas.harvard.edu/publications/saxnavigator) | Nicholas Ruta, Naoko Sawada, Katy McKeough, Michael Behrisch, Johanna Beyer | 2019
   - [Presentation](https://youtu.be/tgbefUOYWUY)
 - [Diagnosing Concept Drift with Visual Analytics](https://arxiv.org/abs/2007.14372) (a.k.a. DriftVis) | Weikai Yang, Zhen Li, Mengchen Liu, Yafeng Lu, Kelei Cao, Ross Maciejewski, Shixia Liu | 2020
+- [Responsive Matrix Cells: A Focus+Context Approach for Exploring and Editing Multivariate Graphs](https://arxiv.org/abs/2009.03385) | Tom Horak, Philip Berger, Heidrun Schumann, Raimund Dachselt, Christian Tominski | 2020
+  - [Demo](https://vcg.informatik.uni-rostock.de/~ct/software/RMC/)
