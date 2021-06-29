@@ -16,6 +16,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 10. [Diagnosing Concept Drift with Visual Analytics](data-visualization/diagnosing_concept_drift_with_visual_analytics.pdf) (a.k.a. DriftVis) | Weikai Yang, Zhen Li, Mengchen Liu, Yafeng Lu, Kelei Cao, Ross Maciejewski, Shixia Liu | 2020
 11. [Monitoring and explainability of models in production](machine-learning/monitoring_and_explainability_of_models_in_production.pdf) | Janis Klaise, Arnaud Van Looveren, Clive Cox, Giovanni Vacanti, Alexandru Coca | 2020
 12. [Responsive Matrix Cells: A Focus+Context Approach for Exploring and Editing Multivariate Graphs](data-visualization/responsive_matrix_cells.pdf) | Tom Horak, Philip Berger, Heidrun Schumann, Raimund Dachselt, Christian Tominski | 2020
+13. [GUIRO: User-Guided Matrix Reordering](data-visualization/guiro.pdf) | Michael Behrisch, Tobias Schreck, Hanspeter Pfister | 2019
 
 ## Notes
 

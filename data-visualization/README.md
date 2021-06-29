@@ -14,3 +14,5 @@
 - [Diagnosing Concept Drift with Visual Analytics](https://arxiv.org/abs/2007.14372) (a.k.a. DriftVis) | Weikai Yang, Zhen Li, Mengchen Liu, Yafeng Lu, Kelei Cao, Ross Maciejewski, Shixia Liu | 2020
 - [Responsive Matrix Cells: A Focus+Context Approach for Exploring and Editing Multivariate Graphs](https://arxiv.org/abs/2009.03385) | Tom Horak, Philip Berger, Heidrun Schumann, Raimund Dachselt, Christian Tominski | 2020
   - [Demo](https://vcg.informatik.uni-rostock.de/~ct/software/RMC/)
+- [GUIRO: User-Guided Matrix Reordering](https://vcg.seas.harvard.edu/publications/guiro-user-guided-matrix-reordering) | Michael Behrisch, Tobias Schreck, Hanspeter Pfister | 2019
+  - [Presentation](https://youtu.be/kJ74LK4jvLM)
