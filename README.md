@@ -17,6 +17,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 11. [Monitoring and explainability of models in production](machine-learning/monitoring_and_explainability_of_models_in_production.pdf) | Janis Klaise, Arnaud Van Looveren, Clive Cox, Giovanni Vacanti, Alexandru Coca | 2020
 12. [Responsive Matrix Cells: A Focus+Context Approach for Exploring and Editing Multivariate Graphs](data-visualization/responsive_matrix_cells.pdf) | Tom Horak, Philip Berger, Heidrun Schumann, Raimund Dachselt, Christian Tominski | 2020
 13. [GUIRO: User-Guided Matrix Reordering](data-visualization/guiro.pdf) | Michael Behrisch, Tobias Schreck, Hanspeter Pfister | 2019
+14. [Understanding and Visualizing Data Iteration in Machine Learning](data-visualization/understanding_and_visualizing_data_iteration_in_machine_learning.pdf) (a.k.a. Chameleon) | Fred Hohman, Kanit Wongsuphasawat, Mary Beth Kery, Kayur Patel | 2020
 
 ## Notes
 
