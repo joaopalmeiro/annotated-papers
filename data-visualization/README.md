@@ -17,3 +17,5 @@
 - [GUIRO: User-Guided Matrix Reordering](https://vcg.seas.harvard.edu/publications/guiro-user-guided-matrix-reordering) | Michael Behrisch, Tobias Schreck, Hanspeter Pfister | 2019
   - [Presentation](https://youtu.be/kJ74LK4jvLM)
 - [Understanding and Visualizing Data Iteration in Machine Learning](https://fredhohman.com/papers/chameleon) (a.k.a. Chameleon) | Fred Hohman, Kanit Wongsuphasawat, Mary Beth Kery, Kayur Patel | 2020
+- [LineSmooth: An Analytical Framework for Evaluating the Effectiveness of Smoothing Techniques on Line Charts](https://arxiv.org/abs/2007.13882) | Paul Rosen, Ghulam Jilani Quadri | 2020
+  - [Results](https://usfdatavisualization.github.io/LineSmoothDemo/)
