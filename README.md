@@ -24,3 +24,12 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 
 - [Notability](https://www.gingerlabs.com/):
   - `Straight lines` (`Notability` > `Settings` > `Handwriting`): continue to hold down to straighten a line drawn with the pen or highlighter.
+- [GoodNotes](https://goodnotes.com/):
+  - Highlighter:
+    - Color: `#B5D5FF` ([Theme UI](https://theme-ui.com/)).
+  - Text:
+    - Font: Roboto (Regular).
+    - Font size: 12 pt.
+    - Color: `#222639` ([Theme UI](https://theme-ui.com/)).
+  - Pen:
+    - Color: `#D20000`.
