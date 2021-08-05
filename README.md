@@ -34,3 +34,6 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
     - Color: `#222639` ([Theme UI](https://theme-ui.com/)).
   - Pen:
     - Color: `#D20000`.
+- `open <filename.pdf>` ([source](https://apple.stackexchange.com/a/74361)).
+  - `open -a Preview.app <filename.pdf>`.
+  - `open -a "Adobe Acrobat Reader DC.app" <filename.pdf>`.
