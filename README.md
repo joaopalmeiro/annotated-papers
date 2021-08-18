@@ -20,6 +20,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 14. [Understanding and Visualizing Data Iteration in Machine Learning](data-visualization/understanding_and_visualizing_data_iteration_in_machine_learning.pdf) (a.k.a. Chameleon) | Fred Hohman, Kanit Wongsuphasawat, Mary Beth Kery, Kayur Patel | 2020
 15. [LineSmooth: An Analytical Framework for Evaluating the Effectiveness of Smoothing Techniques on Line Charts](data-visualization/linesmooth.pdf) | Paul Rosen, Ghulam Jilani Quadri | 2020
 16. [Towards Understanding How Readers Integrate Charts and Captions: A Case Study with Line Charts](data-visualization/towards_understanding_how_readers_integrate_charts_and_captions.pdf) | Dae Hyun Kim, Vidya Setlur, Maneesh Agrawala | 2021
+17. [TimeElide: Visual Analysis of Non-Contiguous Time Series Slices](data-visualization/timeelide.pdf) | Michael Oppermann, Luce Liu, Tamara Munzner | 2021
 
 ## Notes
 

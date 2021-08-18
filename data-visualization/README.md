@@ -20,3 +20,6 @@
 - [LineSmooth: An Analytical Framework for Evaluating the Effectiveness of Smoothing Techniques on Line Charts](https://arxiv.org/abs/2007.13882) | Paul Rosen, Ghulam Jilani Quadri | 2020
   - [Results](https://usfdatavisualization.github.io/LineSmoothDemo/)
 - [Towards Understanding How Readers Integrate Charts and Captions: A Case Study with Line Charts](https://research.tableau.com/paper/towards-understanding-how-readers-integrate-charts-and-captions-case-study-line-charts) | Dae Hyun Kim, Vidya Setlur, Maneesh Agrawala | 2021
+- [TimeElide: Visual Analysis of Non-Contiguous Time Series Slices](https://osf.io/yqvmf/) | Michael Oppermann, Luce Liu, Tamara Munzner | 2021
+  - [Repo](https://github.com/UBC-InfoVis/time-elide)
+  - [First author page](https://michaeloppermann.com/work/time-elide)
