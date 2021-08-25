@@ -38,3 +38,10 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 - `open <filename.pdf>` ([source](https://apple.stackexchange.com/a/74361)).
   - `open -a Preview.app <filename.pdf>`.
   - `open -a "Adobe Acrobat Reader DC.app" <filename.pdf>`.
+- [Foxit PDF Reader](https://apps.apple.com/pt/app/foxit-pdf-reader/id1032155965?l=en&mt=12):
+  - Typewriter (Text Style):
+    - Font: Fira Code.
+    - Font size: 9.
+    - Color: `#3D2C29` ([Theme UI](https://theme-ui.com/)).
+  - Highlight:
+    - Color: `#F0DFDB` ([Theme UI](https://theme-ui.com/)).
