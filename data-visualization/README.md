@@ -23,3 +23,6 @@
 - [TimeElide: Visual Analysis of Non-Contiguous Time Series Slices](https://osf.io/yqvmf/) | Michael Oppermann, Luce Liu, Tamara Munzner | 2021
   - [Repo](https://github.com/UBC-InfoVis/time-elide)
   - [First author page](https://michaeloppermann.com/work/time-elide)
+- [Trrack: A Library for Provenance-Tracking in Web-Based Visualizations](https://vdl.sci.utah.edu/publications/2020_visshort_trrack/) | Zach Cutler, Kiran Gadhave, Alexander Lex | 2020
+  - [Repo](https://github.com/visdesignlab/trrack)
+  - [Examples](http://vdl.sci.utah.edu/trrack-examples/)

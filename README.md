@@ -21,6 +21,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 15. [LineSmooth: An Analytical Framework for Evaluating the Effectiveness of Smoothing Techniques on Line Charts](data-visualization/linesmooth.pdf) | Paul Rosen, Ghulam Jilani Quadri | 2020
 16. [Towards Understanding How Readers Integrate Charts and Captions: A Case Study with Line Charts](data-visualization/towards_understanding_how_readers_integrate_charts_and_captions.pdf) | Dae Hyun Kim, Vidya Setlur, Maneesh Agrawala | 2021
 17. [TimeElide: Visual Analysis of Non-Contiguous Time Series Slices](data-visualization/timeelide.pdf) | Michael Oppermann, Luce Liu, Tamara Munzner | 2021
+18. [Trrack: A Library for Provenance-Tracking in Web-Based Visualizations](data-visualization/trrack.pdf) | Zach Cutler, Kiran Gadhave, Alexander Lex | 2020
 
 ## Notes
 
@@ -40,7 +41,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
   - `open -a "Adobe Acrobat Reader DC.app" <filename.pdf>`.
 - [Foxit PDF Reader](https://apps.apple.com/pt/app/foxit-pdf-reader/id1032155965?l=en&mt=12):
   - Typewriter (Text Style):
-    - Font: Fira Code.
+    - Font: [Fira Code](https://fonts.google.com/specimen/Fira+Code) (no italics).
     - Font size: 9.
     - Color: `#3D2C29` ([Theme UI](https://theme-ui.com/)).
   - Highlight:
