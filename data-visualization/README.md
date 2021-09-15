@@ -26,3 +26,5 @@
 - [Trrack: A Library for Provenance-Tracking in Web-Based Visualizations](https://vdl.sci.utah.edu/publications/2020_visshort_trrack/) | Zach Cutler, Kiran Gadhave, Alexander Lex | 2020
   - [Repo](https://github.com/visdesignlab/trrack)
   - [Examples](http://vdl.sci.utah.edu/trrack-examples/)
+- [Words of Estimative Correlation: Studying Verbalizations of Scatterplots](https://arxiv.org/abs/1911.12793) | Rafael Henkin, Cagatay Turkay | 2020
+  - [Repo](https://github.com/nlvis/wec)

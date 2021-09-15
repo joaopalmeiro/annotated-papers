@@ -22,6 +22,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 16. [Towards Understanding How Readers Integrate Charts and Captions: A Case Study with Line Charts](data-visualization/towards_understanding_how_readers_integrate_charts_and_captions.pdf) | Dae Hyun Kim, Vidya Setlur, Maneesh Agrawala | 2021
 17. [TimeElide: Visual Analysis of Non-Contiguous Time Series Slices](data-visualization/timeelide.pdf) | Michael Oppermann, Luce Liu, Tamara Munzner | 2021
 18. [Trrack: A Library for Provenance-Tracking in Web-Based Visualizations](data-visualization/trrack.pdf) | Zach Cutler, Kiran Gadhave, Alexander Lex | 2020
+19. [Words of Estimative Correlation: Studying Verbalizations of Scatterplots](data-visualization/words_of_estimative_correlation.pdf) | Rafael Henkin, Cagatay Turkay | 2020
 
 ## Notes
 
