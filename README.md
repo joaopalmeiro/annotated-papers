@@ -23,6 +23,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 17. [TimeElide: Visual Analysis of Non-Contiguous Time Series Slices](data-visualization/timeelide.pdf) | Michael Oppermann, Luce Liu, Tamara Munzner | 2021
 18. [Trrack: A Library for Provenance-Tracking in Web-Based Visualizations](data-visualization/trrack.pdf) | Zach Cutler, Kiran Gadhave, Alexander Lex | 2020
 19. [Words of Estimative Correlation: Studying Verbalizations of Scatterplots](data-visualization/words_of_estimative_correlation.pdf) | Rafael Henkin, Cagatay Turkay | 2020
+20. [An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets](data-visualization/an_exploration_and_validation_of_visual_factors_in_understanding_classification_rule_sets.pdf) | Jun Yuan, Oded Nov, Enrico Bertini | 2021
 
 ## Notes
 

@@ -28,3 +28,4 @@
   - [Examples](http://vdl.sci.utah.edu/trrack-examples/)
 - [Words of Estimative Correlation: Studying Verbalizations of Scatterplots](https://arxiv.org/abs/1911.12793) | Rafael Henkin, Cagatay Turkay | 2020
   - [Repo](https://github.com/nlvis/wec)
+- [An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets](https://arxiv.org/abs/2109.09160) | Jun Yuan, Oded Nov, Enrico Bertini | 2021
