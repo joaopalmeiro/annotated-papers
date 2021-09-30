@@ -29,3 +29,5 @@
 - [Words of Estimative Correlation: Studying Verbalizations of Scatterplots](https://arxiv.org/abs/1911.12793) | Rafael Henkin, Cagatay Turkay | 2020
   - [Repo](https://github.com/nlvis/wec)
 - [An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets](https://arxiv.org/abs/2109.09160) | Jun Yuan, Oded Nov, Enrico Bertini | 2021
+- [How to evaluate data visualizations across different levels of understanding](https://arxiv.org/abs/2009.01747) | Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar | 2020
+  - [Presentation](https://youtu.be/yoQoNCQoL_k?t=988)
