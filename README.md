@@ -25,6 +25,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 19. [Words of Estimative Correlation: Studying Verbalizations of Scatterplots](data-visualization/words_of_estimative_correlation.pdf) | Rafael Henkin, Cagatay Turkay | 2020
 20. [An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets](data-visualization/an_exploration_and_validation_of_visual_factors_in_understanding_classification_rule_sets.pdf) | Jun Yuan, Oded Nov, Enrico Bertini | 2021
 21. [How to evaluate data visualizations across different levels of understanding](data-visualization/how_to_evaluate_data_visualizations_across_different_levels_of_understanding.pdf) | Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar | 2020
+22. [Towards a Taxonomy for Evaluating User Engagement in Information Visualization](data-visualization/towards_a_taxonomy_for_evaluating_user_engagement_in_information_visualization.pdf) | Narges Mahyar, Sung-Hee Kim, Bum Chul Kwon | 2015
 
 ## Notes
 

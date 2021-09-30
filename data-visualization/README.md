@@ -31,3 +31,4 @@
 - [An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets](https://arxiv.org/abs/2109.09160) | Jun Yuan, Oded Nov, Enrico Bertini | 2021
 - [How to evaluate data visualizations across different levels of understanding](https://arxiv.org/abs/2009.01747) | Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar | 2020
   - [Presentation](https://youtu.be/yoQoNCQoL_k?t=988)
+- [Towards a Taxonomy for Evaluating User Engagement in Information Visualization](https://www.vis4me.com/personalvis15/papers/mahyar.pdf) | Narges Mahyar, Sung-Hee Kim, Bum Chul Kwon | 2015
