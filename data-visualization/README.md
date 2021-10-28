@@ -32,3 +32,4 @@
 - [How to evaluate data visualizations across different levels of understanding](https://arxiv.org/abs/2009.01747) | Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar | 2020
   - [Presentation](https://youtu.be/yoQoNCQoL_k?t=988)
 - [Towards a Taxonomy for Evaluating User Engagement in Information Visualization](https://www.vis4me.com/personalvis15/papers/mahyar.pdf) | Narges Mahyar, Sung-Hee Kim, Bum Chul Kwon | 2015
+- [The Curious Case of Combining Text and Visualization](https://diglib.eg.org/handle/10.2312/evs20191181) | Alvitta Ottley, Aleksandra Kaszowska, R. Jordan Crouser, Evan M. Peck | 2019
