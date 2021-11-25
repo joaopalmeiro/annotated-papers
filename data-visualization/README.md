@@ -33,3 +33,4 @@
   - [Presentation](https://youtu.be/yoQoNCQoL_k?t=988)
 - [Towards a Taxonomy for Evaluating User Engagement in Information Visualization](https://www.vis4me.com/personalvis15/papers/mahyar.pdf) | Narges Mahyar, Sung-Hee Kim, Bum Chul Kwon | 2015
 - [The Curious Case of Combining Text and Visualization](https://diglib.eg.org/handle/10.2312/evs20191181) | Alvitta Ottley, Aleksandra Kaszowska, R. Jordan Crouser, Evan M. Peck | 2019
+- [Fixation and Creativity in Data Visualization Design: Experiences and Perspectives of Practitioners](https://www.dvclab.net/wp-content/uploads/2021/08/Parsonsetal_Fixation_VIS_short_paper-preprint.pdf) | Paul Parsons, Prakash Shukla, Chorong Park | 2021

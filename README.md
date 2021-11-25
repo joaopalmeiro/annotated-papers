@@ -27,6 +27,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 21. [How to evaluate data visualizations across different levels of understanding](data-visualization/how_to_evaluate_data_visualizations_across_different_levels_of_understanding.pdf) | Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar | 2020
 22. [Towards a Taxonomy for Evaluating User Engagement in Information Visualization](data-visualization/towards_a_taxonomy_for_evaluating_user_engagement_in_information_visualization.pdf) | Narges Mahyar, Sung-Hee Kim, Bum Chul Kwon | 2015
 23. [The Curious Case of Combining Text and Visualization](data-visualization/the_curious_case_of_combining_text_and_visualization.pdf) | Alvitta Ottley, Aleksandra Kaszowska, R. Jordan Crouser, Evan M. Peck | 2019
+24. [Fixation and Creativity in Data Visualization Design: Experiences and Perspectives of Practitioners](data-visualization/fixation_and_creativity_in_data_visualization_design.pdf) | Paul Parsons, Prakash Shukla, Chorong Park | 2021
 
 ## Notes
 
