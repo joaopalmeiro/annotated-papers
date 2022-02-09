@@ -35,3 +35,6 @@
 - [The Curious Case of Combining Text and Visualization](https://diglib.eg.org/handle/10.2312/evs20191181) | Alvitta Ottley, Aleksandra Kaszowska, R. Jordan Crouser, Evan M. Peck | 2019
 - [Fixation and Creativity in Data Visualization Design: Experiences and Perspectives of Practitioners](https://www.dvclab.net/wp-content/uploads/2021/08/Parsonsetal_Fixation_VIS_short_paper-preprint.pdf) | Paul Parsons, Prakash Shukla, Chorong Park | 2021
   - [arXiv](https://arxiv.org/abs/2108.06451)
+- [MetroSets: Visualizing Sets as Metro Maps](https://arxiv.org/abs/2008.09367) | Ben Jacobsen, Markus Wallinger, Stephen Kobourov, Martin Nöllenburg | 2020
+  - [Website](https://metrosets.ac.tuwien.ac.at/)
+  - [Repo](https://osf.io/nvd8e/)
