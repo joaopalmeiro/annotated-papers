@@ -38,3 +38,5 @@
 - [MetroSets: Visualizing Sets as Metro Maps](https://arxiv.org/abs/2008.09367) | Ben Jacobsen, Markus Wallinger, Stephen Kobourov, Martin Nöllenburg | 2020
   - [Website](https://metrosets.ac.tuwien.ac.at/)
   - [Repo](https://osf.io/nvd8e/)
+- [DataShiftExplorer: Visualizing and Comparing Change in Multidimensional Data for Supervised Learning](https://el-assady.com/publication/sc-ke-el-20/) | Bruno Schneider, Daniel A. Keim, Mennatallah El-Assady | 2020
+  - [Observable](https://observablehq.com/d/589ea6bbf0564a88)
