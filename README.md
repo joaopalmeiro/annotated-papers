@@ -8,6 +8,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 
 1. [MetroSets: Visualizing Sets as Metro Maps](data-visualization/metrosets.pdf) | Ben Jacobsen, Markus Wallinger, Stephen Kobourov, Martin Nöllenburg | 2020
 2. [DataShiftExplorer: Visualizing and Comparing Change in Multidimensional Data for Supervised Learning](data-visualization/datashiftexplorer.pdf) | Bruno Schneider, Daniel A. Keim, Mennatallah El-Assady | 2020
+3. [Strategies for Reuse and Sharing among Data Scientists in Software Teams](machine-learning/strategies_for_reuse_and_sharing_among_data_scientists_in_sotware_teams.pdf) | Will Epperson, April Yi Wang, Robert DeLine, Steven M. Drucker | 2022
 
 ### 2021
 
