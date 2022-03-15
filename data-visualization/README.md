@@ -40,3 +40,5 @@
   - [Repo](https://osf.io/nvd8e/)
 - [DataShiftExplorer: Visualizing and Comparing Change in Multidimensional Data for Supervised Learning](https://el-assady.com/publication/sc-ke-el-20/) | Bruno Schneider, Daniel A. Keim, Mennatallah El-Assady | 2020
   - [Observable](https://observablehq.com/d/589ea6bbf0564a88)
+- [Perceptual proxies for extracting averages in data visualizations](https://link.springer.com/article/10.3758/s13423-018-1525-7) | Lei Yuan, Steve Haroz, Steven Franconeri | 2019
+  - [Supplemental materials](https://osf.io/vhgdn/)
