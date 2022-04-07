@@ -11,6 +11,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 3. [Strategies for Reuse and Sharing among Data Scientists in Software Teams](machine-learning/strategies_for_reuse_and_sharing_among_data_scientists_in_sotware_teams.pdf) | Will Epperson, April Yi Wang, Robert DeLine, Steven M. Drucker | 2022
 4. [Perceptual proxies for extracting averages in data visualizations](data-visualization/perceptual_proxies_for_extracting_averages_in_data_visualizations.pdf) | Lei Yuan, Steve Haroz, Steven Franconeri | 2019
 5. [Rethinking the Ranks of Visual Channels](data-visualization/rethinking_the_ranks_of_visual_channels.pdf) | Caitlyn M. McColeman, Fumeng Yang, Timothy F. Brady, Steven Franconeri | 2021
+6. [StickyLand: Breaking the Linear Presentation of Computational Notebooks](notebooks/stickyland.pdf) | Zijie J. Wang, Katie Dai, W. Keith Edwards | 2022
 
 ### 2021
 
