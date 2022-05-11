@@ -12,6 +12,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 4. [Perceptual proxies for extracting averages in data visualizations](data-visualization/perceptual_proxies_for_extracting_averages_in_data_visualizations.pdf) | Lei Yuan, Steve Haroz, Steven Franconeri | 2019
 5. [Rethinking the Ranks of Visual Channels](data-visualization/rethinking_the_ranks_of_visual_channels.pdf) | Caitlyn M. McColeman, Fumeng Yang, Timothy F. Brady, Steven Franconeri | 2021
 6. [StickyLand: Breaking the Linear Presentation of Computational Notebooks](notebooks/stickyland.pdf) | Zijie J. Wang, Katie Dai, W. Keith Edwards | 2022
+7. [Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis](data-visualization/diff_in_the_loop.pdf) | April Yi Wang, Will Epperson, Robert DeLine, Steven M. Drucker | 2022
 
 ### 2021
 

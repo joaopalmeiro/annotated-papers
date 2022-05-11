@@ -43,3 +43,4 @@
 - [Perceptual proxies for extracting averages in data visualizations](https://link.springer.com/article/10.3758/s13423-018-1525-7) | Lei Yuan, Steve Haroz, Steven Franconeri | 2019
   - [Supplemental materials](https://osf.io/vhgdn/)
 - [Rethinking the Ranks of Visual Channels](https://arxiv.org/abs/2107.11367) | Caitlyn M. McColeman, Fumeng Yang, Steven Franconeri, Timothy F. Brady | 2021
+- [Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis](https://dig.cmu.edu/publications/2022-ditl.html) | April Yi Wang, Will Epperson, Robert DeLine, Steven M. Drucker | 2022
