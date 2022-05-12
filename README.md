@@ -14,6 +14,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 6. [StickyLand: Breaking the Linear Presentation of Computational Notebooks](notebooks/stickyland.pdf) | Zijie J. Wang, Katie Dai, W. Keith Edwards | 2022
 7. [Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis](data-visualization/diff_in_the_loop.pdf) | April Yi Wang, Will Epperson, Robert DeLine, Steven M. Drucker | 2022
 8. [AdViCE: Aggregated Visual Counterfactual Explanations for Machine Learning Model Validation](data-visualization/advice.pdf) | Oscar Gomez, Steffen Holter, Jun Yuan, Enrico Bertini | 2021
+9. [Boxer: Interactive Comparison of Classifier Results](data-visualization/boxer.pdf) | Michael Gleicher, Aditya Barve, Xinyi Yu, Florian Heimerl | 2020
 
 ### 2021
 
