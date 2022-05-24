@@ -46,3 +46,4 @@
 - [Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis](https://dig.cmu.edu/publications/2022-ditl.html) | April Yi Wang, Will Epperson, Robert DeLine, Steven M. Drucker | 2022
 - [AdViCE: Aggregated Visual Counterfactual Explanations for Machine Learning Model Validation](https://arxiv.org/abs/2109.05629) | Oscar Gomez, Steffen Holter, Jun Yuan, Enrico Bertini | 2021
 - [Boxer: Interactive Comparison of Classifier Results](https://graphics.cs.wisc.edu/Papers/2020/GBYH20/) | Michael Gleicher, Aditya Barve, Xinyi Yu, Florian Heimerl | 2020
+- [Symphony: Composing Interactive Interfaces for Machine Learning](https://dig.cmu.edu/publications/2022-symphony.html) | Alex Bäuerle, Ángel Alexander Cabrera, Fred Hohman, Megan Maher, David Koski, Xavier Suau, Titus Barik, Dominik Moritz | 2022
