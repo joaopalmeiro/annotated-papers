@@ -17,6 +17,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 9. [Boxer: Interactive Comparison of Classifier Results](data-visualization/boxer.pdf) | Michael Gleicher, Aditya Barve, Xinyi Yu, Florian Heimerl | 2020
 10. [Symphony: Composing Interactive Interfaces for Machine Learning](data-visualization/symphony.pdf) | Alex Bäuerle, Ángel Alexander Cabrera, Fred Hohman, Megan Maher, David Koski, Xavier Suau, Titus Barik, Dominik Moritz | 2022
 11. [NOVA: A Practical Method for Creating Notebook-Ready Visual Analytics](notebooks/nova.pdf) | Zijie J. Wang, David Munechika, Seongmin Lee, Duen Horng Chau | 2022
+12. [Visualization Guidelines for Model Performance Communication Between Data Scientists and Subject Matter Experts](data-visualization/visualization_guidelines_for_model_performance_communication_between_data_scientists_and_subject_matter_experts.pdf) | Ashley Suh, Gabriel Appleby, Erik W. Anderson, Luca Finelli, Remco Chang, Dylan Cashman | 2022
 
 ### 2021
 
