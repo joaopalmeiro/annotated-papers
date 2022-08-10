@@ -19,6 +19,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 11. [NOVA: A Practical Method for Creating Notebook-Ready Visual Analytics](notebooks/nova.pdf) | Zijie J. Wang, David Munechika, Seongmin Lee, Duen Horng Chau | 2022
 12. [Visualization Guidelines for Model Performance Communication Between Data Scientists and Subject Matter Experts](data-visualization/visualization_guidelines_for_model_performance_communication_between_data_scientists_and_subject_matter_experts.pdf) | Ashley Suh, Gabriel Appleby, Erik W. Anderson, Luca Finelli, Remco Chang, Dylan Cashman | 2022
 13. [Telling Stories from Computational Notebooks: AI-Assisted Presentation Slides Creation for Presenting Data Science Work](notebooks/telling_stories_from_computational_notebooks.pdf) | Chengbo Zheng, Dakuo Wang, April Yi Wang, Xiaojuan Ma | 2022
+14. [Fork It: Supporting Stateful Alternatives in Computational Notebooks](notebooks/fork_it_supporting_stateful_alternatives_in_computational_notebooks.pdf) | Nathaniel Weinman, Titus Barik, Steven M. Drucker, Robert DeLine | 2021
 
 ### 2021
 

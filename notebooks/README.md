@@ -8,3 +8,4 @@
   - [Repo](https://github.com/poloclub/nova)
 - [Telling Stories from Computational Notebooks: AI-Assisted Presentation Slides Creation for Presenting Data Science Work](https://dl.acm.org/doi/abs/10.1145/3491102.3517615) | Chengbo Zheng, Dakuo Wang, April Yi Wang, Xiaojuan Ma | 2022
   - [Repo](https://github.com/cbzheng/nb2slide)
+- [Fork It: Supporting Stateful Alternatives in Computational Notebooks](https://dl.acm.org/doi/10.1145/3411764.3445527) | Nathaniel Weinman, Titus Barik, Steven M. Drucker, Robert DeLine | 2021
