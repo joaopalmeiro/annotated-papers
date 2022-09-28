@@ -73,3 +73,4 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
     - Color: `#3D2C29` ([Theme UI](https://theme-ui.com/)).
   - Highlight:
     - Color: `#F0DFDB` ([Theme UI](https://theme-ui.com/)).
+- [PDF Annotation Fixer](https://github.com/julihoh/pdf_annotation_fix) ([website](https://julihoh.github.io/pdf_annotation_fix/web-app/dist/index.html)).
