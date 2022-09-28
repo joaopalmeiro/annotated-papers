@@ -48,3 +48,8 @@
 - [Boxer: Interactive Comparison of Classifier Results](https://graphics.cs.wisc.edu/Papers/2020/GBYH20/) | Michael Gleicher, Aditya Barve, Xinyi Yu, Florian Heimerl | 2020
 - [Symphony: Composing Interactive Interfaces for Machine Learning](https://dig.cmu.edu/publications/2022-symphony.html) | Alex Bäuerle, Ángel Alexander Cabrera, Fred Hohman, Megan Maher, David Koski, Xavier Suau, Titus Barik, Dominik Moritz | 2022
 - [Visualization Guidelines for Model Performance Communication Between Data Scientists and Subject Matter Experts](https://arxiv.org/abs/2205.05749) | Ashley Suh, Gabriel Appleby, Erik W. Anderson, Luca Finelli, Remco Chang, Dylan Cashman | 2022
+- [Visual Auditor: Interactive Visualization for Detection and Summarization of Model Biases](https://arxiv.org/abs/2206.12540) | David Munechika, Zijie J. Wang, Jack Reidy, Josh Rubin, Krishna Gade, Krishnaram Kenthapadi, Duen Horng Chau | 2022
+  - [Repo](https://github.com/poloclub/visual-auditor)
+  - [PyPI](https://pypi.org/project/visual_auditor/)
+  - [Presentation](https://youtu.be/ZGCVtu2fcbc)
+  - [Demo](https://visual-auditor.surge.sh/)
