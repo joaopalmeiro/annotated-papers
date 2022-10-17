@@ -22,6 +22,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 14. [Fork It: Supporting Stateful Alternatives in Computational Notebooks](notebooks/fork_it_supporting_stateful_alternatives_in_computational_notebooks.pdf) | Nathaniel Weinman, Titus Barik, Steven M. Drucker, Robert DeLine | 2021
 15. [ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics](notebooks/toonnote.pdf) | Daye Kang, Tony Ho, Nicolai Marquardt, Bilge Mutlu, Andrea Bianchi | 2021
 16. [Visual Auditor: Interactive Visualization for Detection and Summarization of Model Biases](data-visualization/visual_auditor) | David Munechika, Zijie J. Wang, Jack Reidy, Josh Rubin, Krishna Gade, Krishnaram Kenthapadi, Duen Horng Chau | 2022
+17. [Affective Learning Objectives for Communicative Visualizations](data-visualization/affective_learning_objectives_for_communicative_visualizations.pdf) | Elsie Lee-Robbins, Eytan Adar | 2022
 
 ### 2021
 

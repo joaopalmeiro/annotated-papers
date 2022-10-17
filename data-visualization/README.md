@@ -53,3 +53,5 @@
   - [PyPI](https://pypi.org/project/visual_auditor/)
   - [Presentation](https://youtu.be/ZGCVtu2fcbc)
   - [Demo](https://visual-auditor.surge.sh/)
+- [Affective Learning Objectives for Communicative Visualizations](https://arxiv.org/abs/2208.04078) | Elsie Lee-Robbins, Eytan Adar | 2022
+  - [Website](http://visualobjectives.net/)
