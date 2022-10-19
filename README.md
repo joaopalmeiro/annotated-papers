@@ -23,6 +23,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 15. [ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics](notebooks/toonnote.pdf) | Daye Kang, Tony Ho, Nicolai Marquardt, Bilge Mutlu, Andrea Bianchi | 2021
 16. [Visual Auditor: Interactive Visualization for Detection and Summarization of Model Biases](data-visualization/visual_auditor) | David Munechika, Zijie J. Wang, Jack Reidy, Josh Rubin, Krishna Gade, Krishnaram Kenthapadi, Duen Horng Chau | 2022
 17. [Affective Learning Objectives for Communicative Visualizations](data-visualization/affective_learning_objectives_for_communicative_visualizations.pdf) | Elsie Lee-Robbins, Eytan Adar | 2022
+18. [Communicative Visualizations as a Learning Problem](data-visualization/communicative_visualizations_as_a_learning_problem.pdf) | Eytan Adar, Elsie Lee | 2020
 
 ### 2021
 

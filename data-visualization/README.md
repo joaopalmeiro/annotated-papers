@@ -55,3 +55,5 @@
   - [Demo](https://visual-auditor.surge.sh/)
 - [Affective Learning Objectives for Communicative Visualizations](https://arxiv.org/abs/2208.04078) | Elsie Lee-Robbins, Eytan Adar | 2022
   - [Website](http://visualobjectives.net/)
+- [Communicative Visualizations as a Learning Problem](https://arxiv.org/abs/2009.07095) | Eytan Adar, Elsie Lee | 2020
+  - [Website](http://visualobjectives.net/)
