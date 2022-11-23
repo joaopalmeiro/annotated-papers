@@ -57,3 +57,5 @@
   - [Website](http://visualobjectives.net/)
 - [Communicative Visualizations as a Learning Problem](https://arxiv.org/abs/2009.07095) | Eytan Adar, Elsie Lee | 2020
   - [Website](http://visualobjectives.net/)
+- [Exploring D3 Implementation Challenges on Stack Overflow](https://arxiv.org/abs/2108.02299) | Leilani Battle, Danni Feng, Kelli Webber | 2022
+  - [OSF repo](https://osf.io/fup48/)

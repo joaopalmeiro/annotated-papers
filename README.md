@@ -24,6 +24,7 @@ Inspired by Aakash Kumar Nain's [`annotated_research_papers`](https://github.com
 16. [Visual Auditor: Interactive Visualization for Detection and Summarization of Model Biases](data-visualization/visual_auditor) | David Munechika, Zijie J. Wang, Jack Reidy, Josh Rubin, Krishna Gade, Krishnaram Kenthapadi, Duen Horng Chau | 2022
 17. [Affective Learning Objectives for Communicative Visualizations](data-visualization/affective_learning_objectives_for_communicative_visualizations.pdf) | Elsie Lee-Robbins, Eytan Adar | 2022
 18. [Communicative Visualizations as a Learning Problem](data-visualization/communicative_visualizations_as_a_learning_problem.pdf) | Eytan Adar, Elsie Lee | 2020
+19. [Exploring D3 Implementation Challenges on Stack Overflow](data-visualization/exploring_d3_implementation_challenges_on_stack_overflow.pdf) | Leilani Battle, Danni Feng, Kelli Webber | 2022
 
 ### 2021
 
